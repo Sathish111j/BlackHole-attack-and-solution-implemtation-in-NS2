@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains the necessary files to run **NS2** simulations focused on mobile ad hoc networks and blackhole attacks. You can follow the steps below to set up NS2, visualize simulations, and explore both the blackhole attack scenario and its prevention solution.
+This repository contains the necessary files to run **NS2** simulations focused on mobile ad hoc networks and blackhole attacks and solutions. You can follow the steps below to set up NS2, visualize simulations, and explore both the blackhole attack scenario and its prevention solution.
 
 ---
 
